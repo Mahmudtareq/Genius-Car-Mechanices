@@ -1,0 +1,46 @@
+[
+    {
+        "name": "MACHINE CHANGE",
+        "id": 1,
+        "price": 2000,
+        "time": 2,
+        "img": "https://i.ibb.co/3fZ5bN9/image1.jpg",
+        "description": "A change machine is a vending machine that accepts an equal amount of currency in smaller bills or coins"
+    },
+    {
+        "name": "REPLACE TIRE",
+        "id": 2,
+        "price": 1800,
+        "time": 2,
+        "img": "https://i.ibb.co/5Rrd8M6/image2.jpg",
+        "description": "A change machine is a vending machine that accepts an equal amount of currency in smaller bills or coins"
+    },
+    {
+        "name": "CAR BODY CHANGE",
+        "id": 3,
+        "price": 1500,
+        "img": "https://i.ibb.co/1mMv3Ng/image3.jpg",
+        "description": "A change machine is a vending machine that accepts an equal amount of currency in smaller bills or coins"
+    },
+    {
+        "name": "OIL CHANGING",
+        "id": 4,
+        "price": 1000,
+        "img": "https://i.ibb.co/588zQ5z/image4.jpg",
+        "description": "A change machine is a vending machine that accepts an equal amount of currency in smaller bills or coins"
+    },
+    {
+        "name": "WASHING CAR",
+        "id": 5,
+        "price": 1600,
+        "img": "https://i.ibb.co/NmwYV91/image5.jpg",
+        "description": "A change machine is a vending machine that accepts an equal amount of currency in smaller bills or coins"
+    },
+    {
+        "name": "BRAKE REPARING",
+        "id": 6,
+        "price": 2000,
+        "img": "https://i.ibb.co/QpzWn4D/image6.jpg",
+        "description": "A change machine is a vending machine that accepts an equal amount of currency in smaller bills or coins"
+    }
+]
