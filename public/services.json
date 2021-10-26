@@ -1,7 +1,6 @@
 [
-    {
+    {   "id": 1,
         "name": "MACHINE CHANGE",
-        "id": 1,
         "price": 2000,
         "time": 2,
         "img": "https://i.ibb.co/3fZ5bN9/image1.jpg",

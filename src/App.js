@@ -11,6 +11,8 @@ import Experts from './Pages/Home/Experts/Experts';
 import Services from './Pages/Home/Services/Services';
 import AuthProvider from './context/AuthProvider';
 import PrivateRoute from './Pages/Login/PrivateRoute/PrivateRoute';
+import AddService from './Pages/AddService/AddService';
+import ManageServices from './Pages/ManageServices/ManageServices';
 function App() {
   return (
     <div className="App">
@@ -37,6 +39,14 @@ function App() {
             <PrivateRoute path="/booking/:serviceId">
               <Booking></Booking>
             </PrivateRoute>
+            <Route path="/addService">
+              <AddService></AddService>
+            </Route>
+            <Route path="/manageServices">
+            <ManageServices></ManageServices>
+            </Route>
+           
+            
             <Route exact path="/*">
               <NotFound></NotFound>
             </Route>
